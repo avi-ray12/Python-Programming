@@ -1,4 +1,4 @@
 # Python-Programming
 Hello, This is my first Repository
 <br>
-Author - Avinash Ray.
+Author - Avinash Awadh Kishor Ray.
